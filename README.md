@@ -1,4 +1,4 @@
-p# Trabalho de Conclusão de curso Sobre Automação Industrial com visão computacional
+# Trabalho de Conclusão de curso Sobre Automação Industrial com visão computacional
 
 RESUMO
 
@@ -53,5 +53,5 @@ Para este experimento foram utilizados os seguintes materiais:
 ∙ Webcam 720p Logitech;
 
 <p align="center">
-    <img width="460" height="300" src="./robotica-vision/image/prototipo.jpg>
+    <img width="460" height="300" src="../robotica-vision/image/prototipo.jpg>
 </p>    
