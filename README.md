@@ -2,7 +2,7 @@
 
 RESUMO
 
-O reconhecimento de padrões em imagens possue inúmeras aplicações para desenvolvimento de
+O reconhecimento de padrões em imagens possui inúmeras aplicações para desenvolvimento de
 soluções em diversas áreas do conhecimento e setores da economia, inclusive, dentro da indústria
 para automação de processos. De acordo com esta conjuntura, foi elaborado um protótipo
 representando o processo de inspeção de biscoitos em uma indústria de alimentos, com o objetivo
